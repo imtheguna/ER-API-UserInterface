@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 
-String apiTestLink = 'https://er-api-get.onrender.com/test';
-//String apiERLink = 'https://er-api-get.onrender.com';
+String apiTestLink = 'http://127.0.0.1:5000/test';
 String apiERLink = 'http://127.0.0.1:5000/';
 const monokaiSublimeTheme = {
   'root': TextStyle(
