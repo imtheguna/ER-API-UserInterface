@@ -1,16 +1,3 @@
-# ddl_er
+I came across the SQLGlot package, which is great for visualizing SQL queries, To make it more accessible, I have created an API and user-friendly interface for generating ER diagrams.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://medium.com/@imtheguna/generate-er-from-sql-91148f74b0b7
